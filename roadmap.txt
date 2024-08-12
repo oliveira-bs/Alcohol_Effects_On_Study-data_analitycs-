@@ -1,0 +1,125 @@
+Pag 1
+
+week alcohol x avg port (bar)
+week alcohol x avg math (bar)
+
+day alcohol x avg port (bar)
+day alcohol x avg math (bar)
+
+week alcohol x avg port & avg age (bar)
+week alcohol x avg math & avg age (bar)
+
+week alcohol x avg port (funnel)
+week alcohol x avg math (funnel)
+
+Pag 2
+
+week alcohol x avg failures port (bar)
+week alcohol x avg failures math (bar)
+
+age port x week alcohol regrouped (bar) stacked
+age math x week alcohol regrouped (bar) stacked
+
+age port x day alcohol regrouped (bar) stacked
+age math x day alcohol regrouped (bar) stacked
+
+failures port x week alcohol regrouped (lines) stacked
+failures math x week alcohol regrouped (lines) stacked
+
+Pag 3
+
+week alcohol regrouped x avg port (bar)
+week alcohol regrouped x avg math (bar)
+
+week alcohol regrouped x avg port (funnel)
+week alcohol regrouped x avg math (funnel)
+
+father job x avg port (bar)
+mother job x avg port (bar)
+
+father job x avg math (bar)
+mother job x avg math (bar)
+
+week alcohol regrouped x father job (lines) stacked
+week alcohol regrouped x mother job (lines) stacked
+
+week alcohol regrouped x father education (lines) stacked
+week alcohol regrouped x mother education (lines) stacked
+
+father education x avg port (bar)
+mother education x avg port (bar)
+
+father education x avg math (bar)
+mother education x avg math (bar)
+
+Pag 4
+
+week alcohol regrouped x avg failures port (bar)
+week alcohol regrouped x avg failures math (bar)
+
+day alcohol regrouped x avg failures port (bar)
+day alcohol regrouped x avg failures math (bar)
+
+week alcohol regrouped x avg absences port (bar)
+week alcohol regrouped x avg absences math (bar)
+
+day alcohol regrouped x avg absences port (bar)
+day alcohol regrouped x avg absences math (bar)
+
+week alcohol regrouped x free time port (lines) stacked
+week alcohol regrouped x free time port (lines) stacked
+
+week alcohol regrouped x free time math (lines) stacked
+week alcohol regrouped x free time math (lines) stacked
+
+week alcohol regrouped x study time port (lines) stacked
+week alcohol regrouped x study time port (lines) stacked
+
+week alcohol regrouped x study time math (lines) stacked
+week alcohol regrouped x study time math (lines) stacked
+
+week alcohol regrouped x go out port (lines) stacked
+week alcohol regrouped x go out port (lines) stacked
+
+week alcohol regrouped x go out math (lines) stacked
+week alcohol regrouped x go out math (lines) stacked
+
+week alcohol regrouped x avg absences port (funnel)
+week alcohol regrouped x avg absences math (funnel)
+
+Pag 5
+
+week alcohol regrouped x sex port (bar) stacked
+week alcohol regrouped x sex math (bar) stacked
+
+week alcohol regrouped x paid port (bar) stacked
+week alcohol regrouped x paid math (bar) stacked
+
+week alcohol regrouped x higher port (bar) stacked
+week alcohol regrouped x higher math (bar) stacked
+
+week alcohol regrouped x day alcohol regrouped port (bar) stacked
+week alcohol regrouped x day alcohol regrouped math (bar) stacked
+
+travel time x avg port (bar)
+travel time x avg math (bar)
+
+week alcohol regrouped x activities (bar) stacked
+week alcohol regrouped x activities (bar) stacked
+
+romantic x avg port (bar)
+romantic x avg math (bar)
+
+romantic x avg port (funnel)
+romantic x avg math (funnel)
+
+
+
+#############
+Themes
+
+students
+family
+alcohol & performance
+social life
+
